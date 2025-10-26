@@ -6,7 +6,7 @@
 
 ## 🏢 Sobre Nós
 
-A **C de Çapato, Lda.** é uma **sociedade por quotas** fundada por **15 estudantes da 42 Luanda**, com o objetivo de transformar ideias em **soluções digitais de impacto**.
+A **C de Çapato, Lda.** é uma **sociedade por quotas** fundada por **15 estudantes**, com o objetivo de transformar ideias em **soluções digitais de impacto**.
 
 Nascemos dentro de um ecossistema de inovação, colaboração e excelência técnica. Acreditamos que **a tecnologia deve resolver problemas reais** — desde o campo agrícola até à mobilidade urbana — com **criatividade, engenharia e propósito social**.
 
@@ -130,7 +130,6 @@ Se a tua instituição quer colaborar connosco, **fala connosco**!
 🌐 **Website:** [www.cdecapato.com](#) *(em desenvolvimento)*  
 🐙 **GitHub:** [@C-de-Capato](https://github.com/C-de-Capato)  
 📍 **Sede:** Luanda, Angola  
-🏫 **Origem:** 42 Luanda  
 
 ---
 
