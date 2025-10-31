@@ -65,38 +65,18 @@ Ser uma das **principais empresas de inovação tecnológica de Angola**, refer�
 
 ## 💼 Projetos em Destaque
 
-### 🌾 **[AngoSeeds](https://github.com/C-de-Capato/AngoSeeds)**
-> Plataforma de gestão agrícola inteligente — uma revolução digital no campo.
-
-O **AngoSeeds** é uma aplicação desenvolvida pela C de Çapato para digitalizar o setor agrícola angolano.  
-Permite o **registo, monitoramento e análise de campos agrícolas**, **gestão de sementes e previsões de colheita**, apoiando a **tomada de decisão dos agricultores** com base em dados.
-
-**Tecnologias:** React.js · Node.js · Firebase · APIs Meteorológicas  
-**Status:** 🚧 Em desenvolvimento
-
----
-
-### 🚖 **C Taxi**
-> Serviço digital de mobilidade urbana, rápido, seguro e angolano.
-
-**C Taxi** é um projeto da C de Çapato focado em **mobilidade inteligente** — conectando motoristas e passageiros de forma prática, transparente e local.  
-O sistema prevê **geolocalização em tempo real**, **pagamentos digitais** e **avaliação de serviço**.
-
-**Tecnologias:** React Native · Firebase · Google Maps API  
-**Status:** 🧩 Em fase de design e prototipagem
-
 ---
 
 ## 🛠️ Stack Tecnológica
 
 | Categoria | Tecnologias |
 |------------|--------------|
-| **Frontend Web** | React.js · Next.js · Tailwind CSS |
-| **Frontend Mobile** | React Native · Expo |
-| **Backend** | Node.js · Express · Firebase Functions |
-| **Banco de Dados** | Firebase Firestore · PostgreSQL |
-| **DevOps / Cloud** | Docker · Google Cloud · GitHub Actions |
-| **Design / Gestão** | Figma · Notion · Trello · Slack |
+| **Frontend Web** | 
+| **Frontend Mobile** | 
+| **Backend** | 
+| **Banco de Dados** |
+| **DevOps / Cloud** | 
+| **Design / Gestão** | 
 
 ---
 
