@@ -117,4 +117,4 @@ Se a tua instituição quer colaborar connosco, **fala connosco**!
 **C de Çapato, Lda. — Sociedade por Quotas de Inovação Tecnológica**  
 > “Códigos com propósito. Soluções com impacto.”
 
-👟💻 #TechMadeInAngola #CdeÇapato #42Luanda #Innovation
+👟💻 #TechMadeInAngola #CdeÇapato #Innovation
