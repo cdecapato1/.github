@@ -40,7 +40,7 @@ Ser uma das **principais empresas de inovação tecnológica de Angola**, refer�
 
 ## 🧠 Áreas de Atuação
 
-- **🌾 Agrotech:** Soluções para o setor agrícola (ex: [AngoSeeds](#angoseeds))
+- **🌾 Agrotech:** Soluções para o setor agrícola
 - **🚗 Mobilidade e Serviços:** Aplicações para transporte urbano e logística
 - **💻 Sistemas Corporativos:** Software personalizado para empresas e startups
 - **📱 Desenvolvimento Mobile:** Aplicações híbridas com React Native e Expo
