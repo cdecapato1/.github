@@ -76,7 +76,7 @@ Ser uma das **principais empresas de inovação tecnológica de Angola**, refer�
 | **Backend** | **NodeJS/Django**
 | **Banco de Dados** | **PostgreSQL/MongoDB**
 | **DevOps / Cloud** | **AWS**
-| **Design / Gestão** | **Figma/Clickup**
+| **Design / Gestão** | **Figma/SCRUM**
 
 ---
 
