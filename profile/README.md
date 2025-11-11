@@ -71,12 +71,12 @@ Ser uma das **principais empresas de inovação tecnológica de Angola**, refer�
 
 | Categoria | Tecnologias |
 |------------|--------------|
-| **Frontend Web** | 
-| **Frontend Mobile** | 
-| **Backend** | 
-| **Banco de Dados** |
-| **DevOps / Cloud** | 
-| **Design / Gestão** | 
+| **Frontend Web** | **NextJS/React**
+| **Frontend Mobile** | **React Native**
+| **Backend** | **NodeJS/Django**
+| **Banco de Dados** | **PostgreSQL/MongoDB**
+| **DevOps / Cloud** | **AWS**
+| **Design / Gestão** | **Figma/Clickup**
 
 ---
 
